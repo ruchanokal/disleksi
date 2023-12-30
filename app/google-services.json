@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719595734110",
+    "project_id": "dyslexicapp-79251",
+    "storage_bucket": "dyslexicapp-79251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719595734110:android:3d41e0e9f7ff95cb77a0cf",
+        "android_client_info": {
+          "package_name": "com.disleksi.disleksi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIVuDN0P2YoIt7r5Tr78E4RYp66qddcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

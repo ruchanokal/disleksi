@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">disleksi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sifrenizi_giriniz">Şifrenizi giriniz</string>
+    <string name="sifremi_unuttum">Şifremi unuttum</string>
+    <string name="bir_hesabin_yok_mu">Bir hesabın yok mu?</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="e_posta_adresinizi_giriniz">E-posta adresinizi giriniz</string>
+    <string name="sifreyi_tekrar_giriniz">Şifreyi tekrar giriniz</string>
+    <string name="bir_sifre_giriniz">Bir şifre giriniz</string>
+    <string name="tamam">Tamam</string>
+    <string name="forget_pass_desc">Aşağıdaki boşluğa e-posta adresinizi yazıp TAMAM butonuna tıkladıktan sonra şifrenizi yenilemeniz için e-posta adresinize bir link gönderilecektir. Birkaç dakika içerisinde gelen kutunuzu kontrol edebilirsiniz.</string>
+    <string name="kullanici">Kullanıcı Adı</string>
+    <string name="disleksi_text">Günlerden bir gün, kaplumbağa tavşanın karşısına geçmiş:Ben senden daha hızlı koşarım! demiş. Tavşan: Git işine! demişse de dinletememiş. Sonunda bakmış olmayacak, yarış etmeye hazır olmuş. Gün gösterip sözleşmişler, sonra ayrılmışlar. Günü gelmiş. Tavşan nasıl koştuğunu biliyor ya! hiç aldırmamış, yolun kıyısına kıvrılmış, uyumuş; ama kaplumbağa koşamayacağını biliyor, bir dakikasını bile geçirmemiş, hemen yola düzülmüş, gidecekleri yere tavşandan önce varmış.</string>
+    <string name="hazir_metin">Örnek Metin</string>
+    <string name="sonuc_text">Sonuç</string>
+    <string name="sonucunuz">Sonucunuz</string>
+    <string name="gonder">Gönder</string>
+
+</resources>
